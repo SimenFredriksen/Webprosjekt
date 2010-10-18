@@ -1,2 +1,5 @@
 Hei.
 GIT ER MORSOMT
+
+Dette har jeg (kanskje??) skrevet i "testbranch".
+Tror jeg
