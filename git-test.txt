@@ -1,9 +1,14 @@
 Hei.
 GIT ER MORSOMT
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Dette har jeg (kanskje??) skrevet i "testbranch".
 Tror jeg
 =======
 kjempe
 >>>>>>> 8c09a74b4e731c01c2cadd1ca7180fcd45d4d833
+=======
+kjempe
+>>>>>>> 8c09a74b4e731c01c2cadd1ca7180fcd45d4d833
+wtf
