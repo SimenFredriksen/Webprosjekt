@@ -34,32 +34,34 @@
 		</ul>
 
 		<ul>
-			<li><a href="sluttrapport/arbeid.php">Hvordan arbeidet har blitt utf&oslash;rt</a>
+			<li><a href="sluttrapport/arbeid.php">Utf&oslash;ring av prosjektet og gjennomf&oslash;ring av arbeid.</a>
 			<ul>
 				<li><a href="sluttrapport/arbeid.php#kommunikasjon">Kommunikasjon</a></li>
 				<li><a href="sluttrapport/arbeid.php#fordeling">Arbeidsfordeling</a></li>
 				<li><a href="sluttrapport/arbeid.php#innhenting">Innhenting av informasjon</a></li>
+				<li><a href="sluttrapport/arbeid.php#prosess">Gruppeprosessen</a></li>
+				<li><a href="sluttrapport/arbeid.php#risiko">Risikoh&aring;ndtering</a></li>
+				<li><a href="sluttrapport/arbeid.php#kvalitet">Kvalitetssikring</a></li>
+				<li><a href="sluttrapport/arbeid.php#teknisk">Tekniske l&oslash;sninger</a></li>
+				<li><a href="sluttrapport/arbeid.php#optimalisere">Hvordan optimalisere for Web</a></li>
 			</ul>
 			</li>
 		</ul>
 
 		<ul>
-			<li><a href="sluttrapport/gjennomforing.php">Gjennomf&oslash;ring</a>
+			<li><a href="sluttrapport/resultater.php">Resultater</a>
 			<ul>
-				<li><a href="sluttrapport/gjennomforing.php#prosess">Gruppeprosessen</a></li>
-				<li><a href="sluttrapport/gjennomforing.php#risiko">Risikoh&aring;ndtering</a></li>
-				<li><a href="sluttrapport/gjennomforing.php#kvalitet">Kvalitetssikring</a></li>
-				<li><a href="sluttrapport/gjennomforing.php#teknisk">Tekniske l&oslash;sninger</a></li>
-				<li><a href="sluttrapport/gjennomforing.php#optimalisere">Hvordan optimalisere for Web</a></li>
+				<li><a href="sluttrapport/resultater.php#resutseendet">Resultatet for produktets utseende</a></li>
+				<li><a href="sluttrapport/resultater.php#resfunksjonalitet">Resultatet for produktets funksjonalitet</a></li>
+				<li><a href="sluttrapport/resultater.php#resuu">Universell utforming</a></li>
+				<li><a href="sluttrapport/resultater.php#WCAG">WCAG</a></li>
 			</ul>
 			</li>
 		</ul>
-
 		<ul>
 			<li><a href="sluttrapport/konklusjon.php">Konklusjon</a>
 			<ul>
 				<li><a href="sluttrapport/konklusjon.php#maaloppnaaelse">M&aring;loppn&aring;else</a></li>
-				<li><a href="sluttrapport/konklusjon.php#resultater">Resultater</a></li>
 				<li><a href="sluttrapport/konklusjon.php#evaluering">Evaluering av sluttproduktet</a>
 				<li><a href="sluttrapport/konklusjon.php#oppsummering">Oppsummering</a>
 				<li><a href="sluttrapport/konklusjon.php#sluttord">Sluttord og tanker om videre utvikling av prosjektet</a></li>
@@ -80,10 +82,13 @@
 
 
 <div id="footer">
-<p>
+<p class="center">
       <a href="http://validator.w3.org/check/referer"><img
           src="img/html5val.jpg"
           alt="Valid HTML 5!" height="31" width="88" /></a>
+</p>
+<p class="center">
+Sist oppdatert 25.11.2010.
 </p>
 </div>
 </div>

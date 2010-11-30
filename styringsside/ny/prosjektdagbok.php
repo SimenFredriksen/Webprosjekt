@@ -23,7 +23,7 @@
 
 <ul class="sirkel">
 	<li><a href="http://www.stud.hio.no/~s168943/dagbok.html">Mats Taraldsen</a></li>
-	<li><a href="http://kennethlynne.net/emma/">Emma Gundersen Vea</a></li>
+	<li><a href="http://kennethlynne.net/emma/prosjektdagbok.html">Emma Gundersen Vea</a></li>
 	<li><a href="http://www.stud.hio.no/~s171639/prosjektdb.html">Lars Helgeland</a></li>
 	<li><a href="http://www.stud.hio.no/~s169970/Prosjektdagbok.html">Simen Christoffer Fredriksen</a></li>
 </ul>
@@ -48,16 +48,43 @@ Vi jobber er del med siden til den fiktive bedriften Phunsystems, men vi ser nå
 Det er mye å gjøre der fram mot neste leveranse. Vi prøver og feiler, og får ting til å se presentable ut etterhvert. Alle gjør sitt
 beste.
 </p>
-
+<h4 class="overs">Onsdag 27.10.2010</h4>
+<p>
+Startet å fokusere mer på styringsdokumentene, og kom fram til en grei fordeling av oppgaver. Arbeidsmoralen ser fortsatt ut
+til å være på topp. Det blir spennende å se hva som skjer fremover.
+</p>
+<h4 class="overs">Mandag 01.11.2010</h4>
+<p>
+Vi er snart ferdig med 2. leveranse. Vi mangler en fullstendig prosjektevaluering, og vi mangler å implementere den nye
+milepælsplanen.
+</p>
+<h4 class="overs">Mandag 08.11.2010</h4>
+<p>
+Vi har gått igjennom hva vi trenger å ha klart til framføringen. Dette er vel ikke akkurat noe noen av oss gleder seg spesielt til,
+men vi tror det vil gå bra. 2. leveranse ble levert onsdag 3/11, og vi starter idag utviklingen av en detaljert sluttrapport. Vi tror
+den kan hjelpe oss i forberedelsen til framføringen neste uke.
+</p>
+<h4 class="overs">Torsdag 25.11.2010</h4>
+<p>
+Framføringen av prosjektet vårt gikk bra, og nå skal vi benytte oss av det vi fikk tilbakemeldinger på under framføringen samt
+tilbakemeldingen vi fikk på 2. leveranse.
+Vi holder på å gjøre de siste forbedringene på produktet, samtidig som vi oppdaterer dagbøker, møtereferater, individuelle rapporter og
+sluttrapporten. Det er mye småknot med produktet vårt som vi kunne gjort bedre. Det som vi fortsatt har tid til å få ferdig, er vi
+i full gang med å utbedre nå. Dette bunner hovedsaklig i å få siden til å tilfredstille så mange WCAG 2.0-krav som mulig.
+</p>
 </div>
 </div>
 
 <div id="footer">
-<p>
+<p class="center">
       <a href="http://validator.w3.org/check/referer"><img
           src="img/html5val.jpg"
           alt="Valid HTML 5!" height="31" width="88" /></a>
 </p>
+<p class="center">
+Sist oppdatert 25.11.2010.
+</p>
+
 </div>
 </div>
 </body>

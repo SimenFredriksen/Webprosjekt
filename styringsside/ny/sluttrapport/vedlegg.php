@@ -22,17 +22,31 @@
 <div id="midten">
 <h3 class="overs">Vedlegg</h3>
 <p>
-Her vil vi legge inn vedlegg til prosjektet.
+For å laste ned; høyreklikk på lenken og trykk på "Lagre lenke som ...".
+</p>
+<p>
+Her kan man laste ned <a href="bekreftelse.rar">bekreftelsen på kontaktskjemaet (bekreftelse.rar*)</a>.
+</p>
+<p>
+Her kan man laste ned <a href="kontakt.html">kontaktskjemaet (kontakt.html)</a>.
+</p>
+<p>
+* = Filen er pakket ned i rar-format. Man kan pakke filen ut igjen ved hjelp av program som for eksempel
+<a href="http://www.rarlab.com/download.htm">WinRar</a> eller <a href="http://lmgtfy.com/?q=rar+files">lignende</a>. Vi pakket ned
+filen, slik at de som lastet den ned skulle få muligheten til å se php-koden.
 </p>
 </div>
 
 
 
 <div id="footer">
-<p>
+<p class="center">
       <a href="http://validator.w3.org/check/referer"><img
           src="../img/html5val.jpg"
           alt="Valid HTML 5!" height="31" width="88" /></a>
+</p>
+<p class="center">
+Sist oppdatert 25.11.2010.
 </p>
 </div>
 </div>

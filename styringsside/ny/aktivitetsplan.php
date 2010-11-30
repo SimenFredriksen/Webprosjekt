@@ -28,15 +28,19 @@
 <a href="img/aktivitetsplan.png"><img src="img/aktivitetsplan.png" alt="Aktivitetsplan" class="bildenobord" /></a>
 </p>
 </div>
-
 </div>
 
+
 <div id="footer">
-<p>
+<p class="center">
       <a href="http://validator.w3.org/check/referer"><img
           src="img/html5val.jpg"
           alt="Valid HTML 5!" height="31" width="88" /></a>
 </p>
+<p class="center">
+Sist oppdatert 01.11.2010.
+</p>
+
 </div>
 </div>
 

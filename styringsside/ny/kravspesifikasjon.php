@@ -25,8 +25,8 @@
 <h3>Tekniske krav:</h3>
 
 <h4>Standarder og kodespråk</h4>
-<p>Vi vil bruke HTML5, CSS2 og noe PHP til våre sider, og samtlige sider skal validere korrekt i HTML5 og CSS2.1 med w3s validatorverktøy.
-Vil vil i størst mulig grad prøve å oppnå at alt blir så semantisk korrekt som mulig.
+<p>Vi vil bruke HTML5, CSS2 og noe PHP til våre sider, og samtlige sider skal validere korrekt i HTML5 og CSS2.1 med W3s validatorverktøy.
+Vil vil i størst mulig grad prøve å oppnå at alt blir så semantisk korrekt som mulig, samt at så mange WCAG-krav som mulig blir innfridd.
 Det vil ikke være behov hos brukere å kjøre ekstra programvare utenom selve nettleseren. Kraftig maskinvare er heller ikke nødvendig.</p>
 
 <h4>Server</h4>
@@ -34,7 +34,8 @@ Det vil ikke være behov hos brukere å kjøre ekstra programvare utenom selve n
 mens "kontakt oss"-siden ligger på studssh.iu.hio.no (pga mail-funksjon i PHP) og vi håper og regner med at disse er oppe til alle døgnets tider,
 så siden vår vil være tilgjengelig hele tiden.</p>
 
-<p>På grunn av økonomiske årsaker velger vi å ikke kjøpe eget domene og eventuelt leie egen server.</p>
+<p>På grunn av økonomiske årsaker velger vi å ikke kjøpe eget domene og/eller eventuelt leie egen server.</p>
+
 
 <h3>Funksjonalitet:</h3>
 
@@ -42,6 +43,9 @@ så siden vår vil være tilgjengelig hele tiden.</p>
 <p>Det skal være enkelt å navigere seg rundt på siden, selv om man ikke er vant til å bruke web fra før.</p>
 <p>Vi skal også følge "three-click-rule" (treklikksregelen), som betyr at uansett hvilken underside man er på,
 så trenger man ikke klikke på linker mer enn tre ganger for å komme hvor man vil på siden.</p>
+<p>Vi skal også prøve å få til at man kan navigere på siden kun ved bruk av tastatur, og kun ved bruk av mus.</p>
+<p>Vi vil prøve å gi elementer semantisk mening (mtp universell utforming), og vi vil bruke WCAG 2.0-kravene som veiledning for dette.
+</p>
 
 <h4>Menyen</h4>
 <p>Vi har en horisontal meny øverst på siden (under logoen) som vil vise brukerne de sidene som er viktige for en nyoppstartet bedrift å ha på sin webside.
@@ -59,6 +63,20 @@ Når henvendelsen er sendt, vil en ny side med bekreftelse på når den er sendt
 
 <h3>Utseende, brukervennlighet og universell utforming:</h3>
 
+<h4>WCAG</h4>
+
+<p>Vi ønsker å innfri så mange wcag krav vi kan.
+Vi vil først fokusere på enkelte krav, men også prøve å innfri så mange krav som mulig, på alle tre nivåer (A, AA, AAA)</p>
+
+<h5>Krav vi vil fokusere på</h5>
+
+<ul title="Liste over wcag-krav">
+<li><a href="http://www.w3.org/WAI/WCAG20/quickref/#qr-text-equiv-all">1.1.1</a></li>
+<li><a href="http://www.w3.org/WAI/WCAG20/quickref/#qr-keyboard-operation-all-funcs">2.1.3</a></li>
+<li><a href="http://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-title">2.4.2</a></li>
+<li><a href="http://www.w3.org/WAI/WCAG20/quickref/#qr-ensure-compat-parses">4.1.1</a></li>
+</ul>
+
 <h4>Oppsett av siden</h4>
 <p>Som tidligere nevnt vil siden være veldig enkel å navigere seg frem i.
 Nettstedet er bygget opp av enkle sider, alle med en meny som linker til resten av (de viktigste) sidene.
@@ -70,26 +88,28 @@ Overskrifter og underoverskrifter skal også gi mening, for å gi en forståelse
 <p>Fargevalget er enda ikke bestemt, men vi vil tilstrebe å få behagelige og pene farger på alle elementene.</p>
 
 <p>Fargene på de ulike elementene skal også stå i stil med hverandre,
-men likevel være forskjellige nok så fargeblinde og svaksynte lett kan se alt på sidene.</p>
+men likevel være forskjellige nok (kontrast) så fargeblinde og svaksynte lett kan se alt på sidene.</p>
 
 <p>- Dette vil vi teste ut ved å ta en kontrastsjekk på siden som sier om det er bra nok eller ikke.</p>
 
 <h4>Semantikk</h4>
 <p>Vi fokuserer på å bruke korrekte betegnelser og HTML-koder de forskjellige typene.
 Det er ikke alltid like lett å få til at alle elementer på sidene er 100% semantisk riktige,
-men vi skal jobbe med å få til i størst mulig grad, med utgangspunkt i det vi har lært om feltet.
+men vi skal jobbe med å få det til i størst mulig grad, med utgangspunkt i det vi har lært om feltet og ved bruk av WCAG-regler.
 </p>
-
 
 </div>
 
 
 
 <div id="footer">
-<p>
+<p class="center">
       <a href="http://validator.w3.org/check/referer"><img
           src="img/html5val.jpg"
           alt="Valid HTML 5!" height="31" width="88" /></a>
+</p>
+<p class="center">
+Sist oppdatert 25.11.2010.
 </p>
 </div>
 </div>

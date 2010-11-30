@@ -22,10 +22,10 @@
 <h3 class="overs">Individuelle rapporter</h3>
 
 <ul class="sirkel">
-    <li><a href="http://www.stud.hio.no/~s171639/">Lars Helgeland</a></li>
-    <li><a href="http://kennethlynne.net/emma/">Emma Gundersen Vea</a></li>
+    <li><a href="http://www.stud.hio.no/~s171639/rapport.html">Lars Helgeland</a></li>
+    <li><a href="http://kennethlynne.net/emma/individuellrapport.html">Emma Gundersen Vea</a></li>
     <li><a href="http://www.stud.hio.no/~s168943/indrapport.html">Mats Taraldsen</a></li>
-    <li><a href="http://www.stud.hio.no/~s169970/">Simen Christoffer Fredriksen</a></li>
+    <li><a href="http://www.stud.hio.no/~s169970/individuellrapport.html">Simen Christoffer Fredriksen</a></li>
 </ul>
 
 
@@ -34,10 +34,13 @@
 
 
 <div id="footer">
-<p>
+<p class="center">
       <a href="http://validator.w3.org/check/referer"><img
           src="img/html5val.jpg"
           alt="Valid HTML 5!" height="31" width="88" /></a>
+</p>
+<p class="center">
+Sist oppdatert 01.11.2010.
 </p>
 </div>
 </div>

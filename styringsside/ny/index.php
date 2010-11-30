@@ -27,15 +27,20 @@ og Mats Taraldsen.
 <p><strong>Leveranse 1</strong> finner man i menyen til venstre under "Styringsdokumenter".</p>
 <p><strong>Leveranse 2</strong> finner man i menyen til venstre under "Styringsdokumenter", "Midtveisrapport" og "Sluttrapport".
 V&aring;rt nettsted finnes under linken "Prosjektsiden" i menyen til venstre.</p>
+<p><strong>Leveranse 3</strong> er nå klart. På denne siden finner man alt som har med styringen av prosjektet å gjøre.
+V&aring;rt produkt finnes under linken "Prosjektsiden" i menyen til venstre.</p>
 </div>
 
 
 
 <div id="footer">
-<p>
+<p class="center">
       <a href="http://validator.w3.org/check/referer"><img
           src="img/html5val.jpg"
           alt="Valid HTML 5!" height="31" width="88" /></a>
+</p>
+<p class="center">
+Sist oppdatert 01.11.2010.
 </p>
 </div>
 </div>
