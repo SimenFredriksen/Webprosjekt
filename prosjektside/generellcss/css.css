@@ -1,45 +1,45 @@
-
+/*Hovedsidens layout*/
 body,html	{
 		width:100%;
 		height:100%;
 		margin:0 auto;
-		background-image:url('img/backgr.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr.png');
 		background-attachment:fixed;
 		}
-
+/*Innenfor denne boksen ligger alt innholdet*/
 #boks		{
 		margin:0 auto;
 		width:80%;
 		height:100%;
-		background-image:url('img/backgr.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr.png');
 		background-attachment:fixed;
 		
 		}
-
+/*Egen boks for meny og logo/overskrift*/
 #header		{
 		width:100%;
-		height:160px;	
+		height:29%;	/*Her må det muligens forandres*/
 		margin:0 auto;
-		background-image:url('img/backgr.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr.png');
 		background-attachment:fixed;
 		}
-
+/*Boks til venstre for midtinnholdet*/
 #venstre	{
 		width:20%;
 		float:left;
 		margin-right:0px;
-		background-image:url('img/backgr.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr.png');
 		background-attachment:fixed;
 		}
-
+/*Boks til høyre for midtinnholdet*/
 #hoyre		{
 		width:15%;
 		float:right;
 		margin-left:0px;
-		background-image:url('img/backgr.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr.png');
 		background-attachment:fixed;
 		}
-
+/*Midten og der all informasjon finnes*/
 #midten		{
 		width:60%;
 		margin:auto;
@@ -49,24 +49,25 @@ body,html	{
 		padding-right: 1em;
 		padding-bottom:1em;
 		padding-top:0.2em;
-		background-image:url('img/backgr2.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr2.png');
 		background-attachment:fixed;
 		}
-
+/*Boks til den nederste delen av siden, der hvor vi legger inn blant annet bilde og link til html5 validering*/
 #footer		{
 		text-align: center;
 		height:100px;
 		background-color:#ffffff;
 		width:80%;
 		margin:0 auto;
-		background-image:url('img/backgr.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr.png');
 		background-attachment:fixed;
 		}
-		
+/*!------Her starter layout til menyen------!*/
 ul, li, html, a	{margin:0; padding:0;
 		}
 
 li		{list-style-type:none;
+		font-family: Sans-Serif;
 		}
 
 a		{
@@ -92,6 +93,7 @@ ul#nav li	{
 		line-height:2em;
 		background-color:#fddd7c;
 		border-right:2px dotted #292929;
+		font-family: Sans-serif;
 		}
 
 ul#nav li.noBorder
@@ -148,32 +150,54 @@ ul#nav li:hover ul li a:hover
 		{
 		background-color:#fddd7c;
 		}
-		
+/*!------Layout til meny ferdig------!*/
+/*Lager en h1 klasse som sentrerer teklsten*/
 h1.overs	{
 		text-align:center;
+		font-family: Sans-Serif;
 		}
-
+/*Lager en paragraf klasse som sentrerer teksten*/
 p.senter	{
 		text-align:center;
 		}
-		
+/*En bildeklasse som tar bort borden på bildet i tillegg til at bilde tar 100% av den plassen den kan ta i boksen midten*/		
 img.bilde1	{
 		border: none;
 		width:100%;
 		}
-		
+/*En liste som gir listen sirkler*/		
 li.generell	{list-style-type:circle;
+		font-family: Sans-Serif;
 		}
-		
+/*En liste som gir listen firkanter*/
 li.generell2	{list-style-type:square;
+		font-family: Sans-Serif;
 		margin-left:5%;
 		}
-		
+/*Legger til en ekstra marg på 5%*/
 div.margfive	{
 		margin-left:5%;
 		}
-		
+/*Lager linkklassen musover som gir linkene blå farge og rød farge når musen kommer over den. I tillegg har vi tatt bort streken under linken*/
 a:hover.musover	{
 		text-decoration:none;
 		color:#ff0000;
+		}
+a.musover	{
+		color:navy;
+		}
+p		{
+		font-family: Sans-Serif;
+		}
+td		{
+		font-family: Sans-Serif;
+		}
+strong		{
+		font-family: Sans-Serif;
+		}
+h2		{
+		font-family: Sans-Serif;
+		}
+h2.overs	{
+		text-align:center;
 		}
