@@ -1,1 +1,2 @@
-Alle de ferdige filene ligger i henholdsvis "prosjektside"-mappa og "styringsside/ny"-mappene.
+Alle de ferdige filene for hovedsiden og styringssidenligger i henholdsvis
+"prosjektside"-mappa og "styringsside/ny"-mappene.
