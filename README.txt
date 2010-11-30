@@ -1,0 +1,1 @@
+Alle de ferdige filene ligger i henholdsvis "prosjektside"-mappa og "styringsside/ny"-mappene.
