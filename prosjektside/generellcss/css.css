@@ -3,7 +3,7 @@ body,html	{
 		width:100%;
 		height:100%;
 		margin:0 auto;
-		background-image:url('img/backgr.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr.png');
 		background-attachment:fixed;
 		}
 /*Innenfor denne boksen ligger alt innholdet*/
@@ -11,16 +11,16 @@ body,html	{
 		margin:0 auto;
 		width:80%;
 		height:100%;
-		background-image:url('img/backgr.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr.png');
 		background-attachment:fixed;
 		
 		}
 /*Egen boks for meny og logo/overskrift*/
 #header		{
 		width:100%;
-		height:29%;	
+		height:29%;	/*Her må det muligens forandres*/
 		margin:0 auto;
-		background-image:url('img/backgr.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr.png');
 		background-attachment:fixed;
 		}
 /*Boks til venstre for midtinnholdet*/
@@ -28,7 +28,7 @@ body,html	{
 		width:20%;
 		float:left;
 		margin-right:0px;
-		background-image:url('img/backgr.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr.png');
 		background-attachment:fixed;
 		}
 /*Boks til høyre for midtinnholdet*/
@@ -36,7 +36,7 @@ body,html	{
 		width:15%;
 		float:right;
 		margin-left:0px;
-		background-image:url('img/backgr.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr.png');
 		background-attachment:fixed;
 		}
 /*Midten og der all informasjon finnes*/
@@ -49,7 +49,7 @@ body,html	{
 		padding-right: 1em;
 		padding-bottom:1em;
 		padding-top:0.2em;
-		background-image:url('img/backgr2.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr2.png');
 		background-attachment:fixed;
 		}
 /*Boks til den nederste delen av siden, der hvor vi legger inn blant annet bilde og link til html5 validering*/
@@ -59,7 +59,7 @@ body,html	{
 		background-color:#ffffff;
 		width:80%;
 		margin:0 auto;
-		background-image:url('img/backgr.png');
+		background-image:url('http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/backgr.png');
 		background-attachment:fixed;
 		}
 /*!------Her starter layout til menyen------!*/
