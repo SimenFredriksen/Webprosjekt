@@ -37,6 +37,8 @@
 <li><a href="#ref14">15-11-2010</a></li>
 <li><a href="#ref15">17-11-2010</a></li>
 <li><a href="#ref16">24-11-2010</a></li>
+<li><a href="#ref17">30-11-2010</a></li>
+<li><a href="#ref18">14-12-2010</a></li>
 </ul>
 <h4 class="overs"><a id="ref1">Møtereferat nr. 1</a></h4>
 <div class="margfive">
@@ -548,7 +550,45 @@ WCAG-krav vi har tenkt å innfri på siden vår.</p>
 <p><strong>Punkt 3: Videre arbeid</strong></p>
 <p>Oppdatere styringsdokumenter og hovedsiden som avtalt.</p>
 
+<h4 class="overs"><a id="ref17">Møtereferat nr. 17</a></h4>
 
+<p><strong>30-11-10</strong></p>
+<p><strong>Til stede:</strong>
+</p>
+
+<ul class="sirkel">
+<li>Lars</li>
+<li>Simen</li>
+<li>Mats</li>
+<li>Emma</li>
+
+</ul>
+
+<p><strong>Neste møte blir Tirsdag 14-11-2010 klokken 12.30.</strong></p>
+<p><strong>Punkt 1: Oppgaveteksten  til leveranse 3</strong></p>
+<p>Vi har nå fått oppgaveteksten til siste leveranse. Vi leser alle nøye igjennom den, for å skaffe oss en oversikt.</p>
+<p><strong>Punkt 2: Videre arbeid.</strong></p>
+<p>Ta ut git historikken. Ordne noen småproblemer med siden, samtidig som vi ordner noen få mangler i forhold til WCAG.</p>
+
+<h4 class="overs"><a id="ref18">Møtereferat nr. 18</a></h4>
+
+<p><strong>14-12-10</strong></p>
+<p><strong>Til stede:</strong>
+</p>
+
+<ul class="sirkel">
+<li>Lars</li>
+<li>Simen</li>
+<li>Mats</li>
+<li>Emma</li>
+
+</ul>
+
+<p><strong>Dette gjøres i dag:</strong></p>
+<p>Vi sjekker hele innleveringen vår. At alt validerer, at alle våre data blir lagt riktig i zip-format og at alle er
+tilfredse med produktet vi leverer. Noen små oppdateringer må til, men vi valgte å vente til etter eksamene våre med å levere,
+og på den måten forsikre oss om at vi ikke har forhastet den siste delen av arbeidet.</p>
+<p><strong>Dette er vårt siste møte.</strong></p>
 </div>
 
 </div>
@@ -560,7 +600,7 @@ WCAG-krav vi har tenkt å innfri på siden vår.</p>
           alt="Valid HTML 5!" height="31" width="88" /></a>
 </p>
 <p class="center">
-Sist oppdatert 25.11.2010.
+Sist oppdatert 14.12.2010.
 </p>
 </div>
 </div>

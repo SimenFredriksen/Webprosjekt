@@ -72,6 +72,11 @@ Vi holder på å gjøre de siste forbedringene på produktet, samtidig som vi op
 sluttrapporten. Det er mye småknot med produktet vårt som vi kunne gjort bedre. Det som vi fortsatt har tid til å få ferdig, er vi
 i full gang med å utbedre nå. Dette bunner hovedsaklig i å få siden til å tilfredstille så mange WCAG 2.0-krav som mulig.
 </p>
+<h4 class="overs">Torsdag 14.12.2010</h4>
+<p>Dette er dagen for siste møte, dagen vi leverer som gruppe for siste gang og vi går hvert til vårt.
+Alle på gruppen har hatt en positiv læringskurve, og det blir litt rart å bli ferdige med samarbeidet.
+Vi har klart oss gjennom prosjektet over cirka 3 måneder nå som medarbeidere og venner, og vi er svært fornøyde alle sammen med
+resultatet.</p>
 </div>
 </div>
 
