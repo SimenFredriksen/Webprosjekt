@@ -7,6 +7,8 @@ header('Content-Type: text/html; charset=UTF-8');
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Phunsystems’ hjemmeside" />
+<meta name="keywords" content="Phunsystems,spillutvikler,spill,dataspill" />
 <link rel="shortcut icon" href="http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/img/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" href="http://www.stud.hio.no/~s168943/prosjekt2010/hovedside/css.css" />
 
