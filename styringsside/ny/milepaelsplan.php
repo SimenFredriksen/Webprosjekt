@@ -77,13 +77,10 @@
 </ul>
 
 <ul>
-  <li>29.11.2010: Fullføre sluttrapporten</li>
-</ul>
-
-<ul>
-  <li>30.11.2010: Finpusse siden</li>
-  <li>30.11.2010: Sjekke for bugs og validering</li>
-  <li>30.11.2010: Levering av 3. leveranse</li>
+  <li>14.12.2010: Fullføre sluttrapporten</li>
+  <li>14.12.2010: Finpusse siden</li>
+  <li>14.12.2010: Sjekke for bugs og validering</li>
+  <li>14.12.2010: Levering av 3. leveranse</li>
 </ul>
 
 </div>
