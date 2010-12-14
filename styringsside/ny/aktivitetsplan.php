@@ -38,7 +38,7 @@
           alt="Valid HTML 5!" height="31" width="88" /></a>
 </p>
 <p class="center">
-Sist oppdatert 01.11.2010.
+Sist oppdatert 14.12.2010.
 </p>
 
 </div>

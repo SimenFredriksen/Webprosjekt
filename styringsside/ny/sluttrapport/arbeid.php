@@ -44,7 +44,10 @@ Alle har også en hyggelig tone, og vi kommer godt overens med hverandre, noe so
 </p>
 
 <p>
-I forhold til fildeling har vi brukt Google Docs og Git (github), noe som også (etterhvert) har fungert bra.
+I forhold til fildeling har vi brukt Google Docs og Git (github), noe som også (etterhvert) har fungert bra. Vi hadde noen problemer med
+å få Git til å fungere, derfor begynte vi å dele med Google Docs for å få en god flyt i starten av prosjektet. Etterhvert forstod vi mer
+av Git, men primært har vi brukt Google Docs. Noe av grunnen til dette er at Git en periode ikke ville fungere for enkelte av oss, uten at
+det så ut som om vi hadde gjort noe feil. Plutselig en dag fungerte det igjen, uten at vi har noen god forklaring på dette.
 </p>
 
 
@@ -158,7 +161,7 @@ er at alt skal være så lett tilgjengelig som mulig, men vi vil også få bruke
           alt="Valid HTML 5!" height="31" width="88" /></a>
 </p>
 <p class="center">
-Sist oppdatert 25.11.2010.
+Sist oppdatert 14.12.2010.
 </p>
 </div>
 </div>

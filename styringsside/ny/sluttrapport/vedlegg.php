@@ -25,15 +25,15 @@
 For å laste ned; høyreklikk på lenken og trykk på "Lagre lenke som ...".
 </p>
 <p>
-Her kan man laste ned <a href="bekreftelse.rar">bekreftelsen på kontaktskjemaet (bekreftelse.rar*)</a>.
+Her kan man laste ned <a href="bekreftelse.zip">bekreftelsen på kontaktskjemaet (bekreftelse.zip*)</a>.
 </p>
 <p>
-Her kan man laste ned <a href="kontakt.html">kontaktskjemaet (kontakt.html)</a>.
+Her kan man laste ned <a href="kontakt.zip">kontaktskjemaet (kontakt.zip*)</a>.
 </p>
 <p>
-* = Filen er pakket ned i rar-format. Man kan pakke filen ut igjen ved hjelp av program som for eksempel
-<a href="http://www.rarlab.com/download.htm">WinRar</a> eller <a href="http://lmgtfy.com/?q=rar+files">lignende</a>. Vi pakket ned
-filen, slik at de som lastet den ned skulle få muligheten til å se php-koden.
+* = Filen er pakket ned i zip-format. Man kan pakke filen ut igjen ved hjelp av program som for eksempel
+<a href="http://www.rarlab.com/download.htm">WinRar</a> eller <a href="http://lmgtfy.com/?q=zip+files">lignende</a>. Vi pakket ned
+filene, slik at de som lastet den ned skulle få muligheten til å se php-koden.
 </p>
 </div>
 
@@ -46,7 +46,7 @@ filen, slik at de som lastet den ned skulle få muligheten til å se php-koden.
           alt="Valid HTML 5!" height="31" width="88" /></a>
 </p>
 <p class="center">
-Sist oppdatert 25.11.2010.
+Sist oppdatert 14.12.2010.
 </p>
 </div>
 </div>
